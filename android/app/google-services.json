@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "282143900886",
+    "project_id": "commerce-lkwti4",
+    "storage_bucket": "commerce-lkwti4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282143900886:android:b8e0fc2cfc7d652fcc3577",
+        "android_client_info": {
+          "package_name": "com.mycompany.commerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRasBzYgZ5QacmS_ufpLrAeHKSlaEUzVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
